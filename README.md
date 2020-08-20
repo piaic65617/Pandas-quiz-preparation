@@ -3,3 +3,5 @@
 ### added olympics data set csv file 
 # pyhton data input and validation
 ### Basic data input fucntions like Read_csv,shape,info()
+# Basic analysis using value_counts,sort_values(),Boolean indexing,String handling was added.
+# Bsic ploting using Matplotlib and Seas=born was added.
